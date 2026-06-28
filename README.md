@@ -36,6 +36,11 @@ Calculations/ Math tools/ Formulas used here –
 5. acceleration (largest one 💀), all our vectors were like pointing from the Sun to the planet so when r is (1.0,0.0) it means planet is 1.0 unit from the Sun. There will be a minus sign before the acceleration since it is pointing towards the Sun.                                     F = GMm/r² or, ma = GMm/r² or, a = GM/r². But this represents the number only, we need the vector. vec.r/r is the unit vector of the distance because it only represents the direction without changing the value. So, a = - GM × vec.r/ r³. Since direction of 'r' is constantly changing, we cannot simply put a minus before GM/r², but as acceleration is opposite to 'r' no matter what, we put minus before GM × vec.r/ r³. Therefore, a = - GM × vec.r/ r³, in the denominator 'r' is scalar which has been calculated in the code as "dist = np.linalg.norm(r). In my code, a = - GM*r/dist**3.
 
 
+The elliptical orbit:
+
+Because the initial tangential velocity was too low for a circular orbit, gravity pulled the planet inward. As it fell closer to the Sun, gravity accelerated it, increasing its speed. However, since it already had sideways velocity, it did not crash into the Sun. Instead, it overshot the closest point and moved away again. Gravity then slowed it down until it reached its farthest point, where it began falling inward once more. This continuous cycle of speeding up near the Sun and slowing down farther away produced an elliptical orbit. A circular orbit is simply the special case where the initial velocity is exactly right for the chosen orbital radius, so the distance from the Sun remains constant.
+
+
 What I learned:
 
 By doing the calculations and coding, I learnt how velocity and position matters and understood the use of GMm/R² = mv²/R more. Here in the formula we find the relationship between velocity and position by equating the gravitational force acting as centripetal force balancing with imaginary centrifugal force. If velocity or position doesn't make the equation true, the planet can't remain in a stable orbit. I realized it by putting different values for velocity and position and forgetting to recalculate the other values! That means I only knew the equation but not the true meaning!
