@@ -29,7 +29,7 @@ Calculations/ Math tools/ Formulas used here –
 
 2. s = s + vt (instantaneous)
 
-3. GM, r(1.0,0.0) [Let's say that the distance is 1 AU from the Sun to the planet]. For the planet to orbit, GMm/r² = mv²/r or, GM/r = v² or, GM = 4pi² [ v = 2.pi.r/T, T = 1 year, r = 1 AU]
+3. GM, r(1.0,0.0) {Let's say that the distance is 1 AU from the Sun to the planet}. For the planet to orbit, GMm/r² = mv²/r or, GM/r = v² or, GM = 4pi² {v = 2.pi.r/T, T = 1 year, r = 1 AU}
 
 4. Initial velocity (whose 'magnitude' remains constant), v² = GM (From the above equation) or, v = 2pi.
 
