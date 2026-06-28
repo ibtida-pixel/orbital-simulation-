@@ -16,10 +16,10 @@ Anyways, nothing in the universe is still. All the particles of the gas clouds h
 So what happens with the velocity after stars and planets form?
 
 
-Every particle in the cloud has a 'v'. From the center it has a distance 'r'. When collapses, the distance from the center to the particle or 'r' decreases. But to keep angular momentum, vec.L = vec.r × m × vec.v (or simply L = mvr) conserved, the 'v' increases, and as the planet didn't collapse that means the velocity has a magnitude naturally for which the equation GMm/r² = mv²/r is true where GMm/r² is the gravitational force (the centripetal one) and mv²/r is the centrifugal force balancing the position.
+Every particle in the cloud has a 'v'. From the center it has a distance 'r'. When collapses, the distance from the center to the particle or 'r' decreases. But to keep angular momentum, vec.L = vec.r × m × vec.v (or simply L = mvr) conserved, the 'v' increases.
 
 
-Now since it has sideways velocity (inertia), even if the star pulls the planet bending its direction it is moving forward so the height literally resets and the star again bends it a little.
+Now since it has sideways velocity (inertia), even if the star pulls the planet bending its direction it is moving forward so the height resets and the star again bends it a little, then again its height resets. So it's path just gets bended and it doesn't even lose height.
 
 
 
