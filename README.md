@@ -53,7 +53,19 @@ By doing the calculations and coding, I learnt how velocity and position matters
 I added images of some of the original code and the results in images folder because the preview is not being shown.
 
 
-Result:
+## Planet Outwards Simulation
 
-![Elliptical image](images/elliptical%20image.png)
+### Code
+![Planet Outwards Code](planet%20outwards%20code%20ss.png)
 
+### Result
+![Planet Outwards Result](planet%20outwards%20image.png)
+
+
+## Elliptical Orbit Simulation
+
+### Code
+![Elliptical Orbit Code](elliptical%20code%20ss.png)
+
+### Result
+![Elliptical Orbit Result](elliptical%20image.png)
