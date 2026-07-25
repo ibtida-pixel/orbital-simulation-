@@ -52,22 +52,6 @@ By doing the calculations and coding, I learnt how velocity and position matters
 
 I added images of some of the original code and the results in images folder because the preview is not being shown.
 
-## Planet going outwards
-
-Code:
-
-![Planet outwards code](images/planet%20outwards%20code%20ss.png)
-
-Result:
-
-![Planet outwards image](images/planet%20outwards%20image.png)
-
-
-## Elliptical orbit
-
-Code:
-
-![Elliptical code](images/elliptical%20code%20ss.png)
 
 Result:
 
