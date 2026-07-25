@@ -28,6 +28,7 @@ Now since it has sideways velocity (inertia), even if the star pulls the planet 
 
 # Calculations/ Math tools/ Formulas used here – 
 
+ 
 1. v = u + at (where due to rotation the 'direction' is constantly changing each time interval NOT the magnitude. I used t = 0.001 s, meaning it determines velocity at every 0.001 s).
 
 2. s = s + vt (instantaneous)
