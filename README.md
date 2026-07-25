@@ -56,16 +56,16 @@ I added images of some of the original code and the results in images folder bec
 ## Planet Outwards Simulation
 
 ### Code
-![Planet Outwards Code](planet%20outwards%20code%20ss.png)
+![Planet Outwards Code](planet_outwards_code.png)
 
 ### Result
-![Planet Outwards Result](planet%20outwards%20image.png)
+![Planet Outwards Result](planet_outwards_image.png)
 
 
 ## Elliptical Orbit Simulation
 
 ### Code
-![Elliptical Orbit Code](elliptical%20code%20ss.png)
+![Elliptical Orbit Code](elliptical_code.png)
 
 ### Result
-![Elliptical Orbit Result](elliptical%20image.png)
+![Elliptical Orbit Result](elliptical_image.png)
