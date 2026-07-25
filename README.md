@@ -45,3 +45,9 @@ What I learned:
 
 By doing the calculations and coding, I learnt how velocity and position matters and understood the use of GMm/R² = mv²/R more. Here in the formula we find the relationship between velocity and position by equating the gravitational force acting as centripetal force balancing with imaginary centrifugal force. If velocity or position doesn't make the equation true, the planet can't remain in a stable orbit. I realized it by putting different values for velocity and position and forgetting to recalculate the other values! That means I only knew the equation but not the true meaning!
 
+
+
+# Visualization
+
+
+I added images of some of the original code and the results in images folder because the preview is not being shown.
